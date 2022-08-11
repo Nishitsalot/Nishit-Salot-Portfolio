@@ -66,6 +66,6 @@ highlight_name: true
 ---
 Nishit Salot is a current graduate student who has a passion for working in tech. He has previously worked in data oriented work environment and is fascinated with the depth of data that is being created on daily basis. He is currently pursuing Information Systems at University of Maryland and is looking for full time opportunities in this domain. 
 
-Outside of work Nishit loves solving puzzles, trvelling and listening to songs.
+Outside of work Nishit loves solving puzzles, travelling and listening to songs.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
