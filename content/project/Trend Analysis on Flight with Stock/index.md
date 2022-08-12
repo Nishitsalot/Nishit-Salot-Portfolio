@@ -13,14 +13,17 @@ image:
   focal_point: Smart
 
 links:
-
+url_code: ''
+url_pdf: 'https://drive.google.com/file/d/190VAWj0tY9lC4qZjirM5TJQUtwXCE0vP/view?usp=sharing'
+url_slides: ''
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: https://drive.google.com/file/d/190VAWj0tY9lC4qZjirM5TJQUtwXCE0vP/view?usp=sharing
+
 ---
 
 While looking at seasonality overall, the Spring season had the highest frequency of flights over the last three years. We inferred that this was because Spring has temperate weather and because there is Spring break around this time. We also inferred, after looking closer at the data, that this was likely due to Covid-19 restrictions in 2020 which made Summer travel harder to do than it used to be in 2018 and 2019. Our initial hypothesis was confirmed when looking at the spread of delays by season, as Winter took the lead. However, it was not for the reason we expected, as weather made up a very small percentage of the total delays. Consistently, thoughout all the seasons, late aircraft delay accounted for the most significant percentage of delays which is most likely due to its all-encompassing nature for all late aircraft.
