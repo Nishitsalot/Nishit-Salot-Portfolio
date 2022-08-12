@@ -15,7 +15,7 @@ image:
 links:
   - icon: 
     icon_pack: fab
-url_tableau: https://public.tableau.com/app/profile/nishit.salot/viz/LendingClub2017-18/Story1
+url_tableau: 'https://public.tableau.com/app/profile/nishit.salot/viz/LendingClub2017-18/Story1'
 url_code: ''
 url_pdf: ''
 url_slides: ''
