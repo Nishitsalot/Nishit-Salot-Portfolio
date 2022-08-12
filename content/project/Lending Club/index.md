@@ -2,7 +2,7 @@
 title: Understanding Debt: Story from Lending CLub
 summary: 
 tags:
-  - Visualisations
+  - Visual
 date: '2021-04-27'
 
 # Optional external URL for project (replaces project detail page).
