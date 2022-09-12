@@ -36,20 +36,6 @@ experience:
         * Power Bi Reports
         * Data Processing
 
-  - title: Data Analyst
-    company: Soham Housewares
-    company_url: ''
-    company_logo: org-x
-    location: Mumbai
-    date_start: '2021-01-01'
-    date_end: '2021-07-31'
-    description: |2-
-      Responsibilities include:
-        
-        * Data Analysis
-        * Data Visualisations
-        * Forecasting 
-
   - title: Analyst
     company: Barclays
     company_url: 'https://www.barclays.in/'
